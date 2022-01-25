@@ -35,8 +35,8 @@ print(remove_whitespaces)
 
 
 #q2
-name="Pratham Bansal"
-SID=21103105
+name="Anmol singh"
+SID=21103122
 department_name="CSE"
 CGPA="9.9"
 
